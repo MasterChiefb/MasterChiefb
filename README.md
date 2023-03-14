@@ -1,4 +1,4 @@
-### Oie devs 👋
+### Olá 👋
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, e estou começando no mundo de programação!
 
@@ -10,10 +10,17 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, e estou começando n
 class Bruno {
  String name = "Bruno Eufrasio"
  String acknowledgements = "Estudante"
+ int age = 22;
+ String city = "Curitiba";
+ String university = "UnioPet";
+ 
+ while(learning) {
+   doStuff();
+ }
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Conhecimentos:**  
 ![My Skills](https://skillicons.dev/icons?i=ps,vscode)
 
 ## **GitHub Estatísticas**
@@ -25,12 +32,6 @@ class Bruno {
 <a href="https://github.com/MasterChiefb">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterChiefb&show_icons=true&theme=dracula&line_height=27" alt="MasterChiefb github stats"/>
 </a>
-
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
 
