@@ -12,7 +12,7 @@ class Bruno {
  String acknowledgements = "Estudante"
  int age = 22;
  String city = "Curitiba";
- String university = "UnioPet";
+ String university = "UniOpet";
  
  while(learning) {
    doStuff();
