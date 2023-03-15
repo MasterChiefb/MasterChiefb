@@ -10,7 +10,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, e estou começando n
 class Bruno {
  String name = "Bruno Eufrasio"
  String acknowledgements = "Estudante"
- int age = 22;
+ int age = 23;
  String city = "Curitiba";
  String university = "UniOpet";
  
